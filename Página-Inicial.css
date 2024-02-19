@@ -8,14 +8,14 @@
 
 .u-section-1 .u-image-1 {
   width: 498px;
-  height: 499px;
-  margin: -75px 72px 0 auto;
+  height: 325px;
+  margin: 0 auto 0 506px;
 }
 
 .u-section-1 .u-image-2 {
   width: 370px;
   height: 300px;
-  margin: -399px auto 0 164px;
+  margin: -300px auto 0 136px;
 }
 
 .u-section-1 .u-text-1 {
@@ -38,7 +38,7 @@
   .u-section-1 .u-image-1 {
     width: 465px;
     margin-right: 160px;
-    margin-left: auto;
+    margin-left: 222px;
   }
 }
 
@@ -46,8 +46,8 @@
   .u-section-1 .u-image-1 {
     width: 305px;
     height: 370px;
-    margin-top: -67px;
     margin-right: 250px;
+    margin-left: 42px;
   }
 
   .u-section-1 .u-text-2 {
@@ -67,14 +67,14 @@
   .u-section-1 .u-image-1 {
     width: 238px;
     height: 256px;
-    margin-top: 174px;
-    margin-right: 0;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-1 .u-image-2 {
     width: 340px;
     height: 276px;
-    margin-top: -241px;
+    margin-top: -197px;
     margin-left: 0;
   }
 
@@ -453,12 +453,12 @@
   font-weight: normal;
   margin: 60px auto;
 }.u-section-7 .u-sheet-1 {
-  min-height: 849px;
+  min-height: 909px;
 }
 
 .u-section-7 .u-list-1 {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 60px;
 }
 
 .u-section-7 .u-repeater-1 {
@@ -624,7 +624,7 @@
   height: 240px;
   object-position: 50% 94.17%;
   background-image: url("images/Celo2.jpg");
-  background-position: 50% 36.27%;
+  background-position: 50% 40.2%;
   margin: 0 auto;
 }
 
@@ -688,12 +688,12 @@
     padding-right: 10px;
   }
 }.u-section-8 .u-sheet-1 {
-  min-height: 944px;
+  min-height: 993px;
 }
 
 .u-section-8 .u-list-1 {
   margin-top: 90px;
-  margin-bottom: 1px;
+  margin-bottom: 50px;
 }
 
 .u-section-8 .u-repeater-1 {
